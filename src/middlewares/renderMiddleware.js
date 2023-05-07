@@ -5,7 +5,7 @@ const content = document.querySelector('#main-content');
 
 export const renderNavigationMiddleware = (ctx, next) => {
   // render navigation
-    render(navigationView(ctx), header)
+    render(navigationView(ctx), header);
   next();
 };
 
