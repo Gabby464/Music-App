@@ -27,7 +27,8 @@ To run the application, follow these steps:
 ## Testing
 To test the application, follow these steps:
 1. Install Http Server by running `npm install http-server` in the terminal
-2. Start the server by running `npm run test` in the terminal
+3. Start the server by running `npm run start` in the terminal
+2. Start the tests by running `npm run test` in the terminal
 
 
 ## Conclusion
